@@ -12,7 +12,7 @@ description: ~防止劳动纠纷，工作舒心愉快~
 
 公共职业安定所(Hello Work)免费提供就业咨询、职业介绍服务。必须提交护照和外国人登记证明书。有些职业介绍所还配备有翻译人员。您的居留资格已决定了您是否可 以在日本劳动就业。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2023-08-21 19.46.42.png" alt=""><figcaption></figcaption></figure>
 
 ### 劳动合同
 
@@ -24,7 +24,7 @@ description: ~防止劳动纠纷，工作舒心愉快~
 
 所有的公司都必须加入劳动保险。
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/スクリーンショット 2023-08-21 19.48.26.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 掌握分寸，为工作投保
