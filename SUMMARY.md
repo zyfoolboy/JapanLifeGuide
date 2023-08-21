@@ -2,7 +2,12 @@
 
 * [欢迎您光临日本!](README.md)
 
-## 第一章
+## 第一章 日语
 
-* [日语学习的必要性](di-yi-zhang/ri-yu-xue-xi-de-bi-yao-xing/README.md)
-  * [日语学习方法的建议](di-yi-zhang/ri-yu-xue-xi-de-bi-yao-xing/ri-yu-xue-xi-fang-fa-de-jian-yi.md)
+* [日语学习的必要性](di-yi-zhang-ri-yu/ri-yu-xue-xi-de-bi-yao-xing/README.md)
+  * [日语学习方法的建议](di-yi-zhang-ri-yu/ri-yu-xue-xi-de-bi-yao-xing/ri-yu-xue-xi-fang-fa-de-jian-yi.md)
+
+## 第二章 生活信息
+
+* [融入社会](di-er-zhang-sheng-huo-xin-xi/rong-ru-she-hui/README.md)
+  * [外国人登记和居留手续](di-er-zhang-sheng-huo-xin-xi/rong-ru-she-hui/wai-guo-ren-deng-ji-he-ju-liu-shou-xu.md)
