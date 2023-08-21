@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [欢迎您光临日本!](README.md)
