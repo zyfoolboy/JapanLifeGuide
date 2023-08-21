@@ -12,3 +12,4 @@
 * [融入社会](di-er-zhang-sheng-huo-xin-xi/rong-ru-she-hui/README.md)
   * [外国人登记和居留手续](di-er-zhang-sheng-huo-xin-xi/rong-ru-she-hui/wai-guo-ren-deng-ji-he-ju-liu-shou-xu.md)
   * [社会保险](di-er-zhang-sheng-huo-xin-xi/rong-ru-she-hui/she-hui-bao-xian.md)
+  * [劳动](di-er-zhang-sheng-huo-xin-xi/rong-ru-she-hui/lao-dong.md)
