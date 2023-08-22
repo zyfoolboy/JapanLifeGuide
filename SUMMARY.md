@@ -15,3 +15,5 @@
   * [劳动](di-er-zhang-sheng-huo-xin-xi/rong-ru-she-hui/lao-dong.md)
   * [儿童教育](di-er-zhang-sheng-huo-xin-xi/rong-ru-she-hui/er-tong-jiao-yu.md)
   * [税金](di-er-zhang-sheng-huo-xin-xi/rong-ru-she-hui/shui-jin.md)
+* [安全安心地生活](di-er-zhang-sheng-huo-xin-xi/an-quan-an-xin-di-sheng-huo/README.md)
+  * [灾害和紧急电话](di-er-zhang-sheng-huo-xin-xi/an-quan-an-xin-di-sheng-huo/zai-hai-he-jin-ji-dian-hua.md)
